@@ -1,0 +1,10 @@
+name: Quests
+author: Stellrow
+main: main.QuestsMain
+version: 1.0
+api-version: 1.13
+
+commands:
+    quests:
+        usage: /quests
+        description: Default command

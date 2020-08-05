@@ -1,0 +1,14 @@
+Mesaje:
+    revinoMaine: '&7&lNu mai am nevoie de ajutor acum,revino maine!'
+    questComplete: '&7&lFelicitari,tocmai ai terminat questul! Vrei primi o recompensa acum!'
+    verificaRamasUcideri: '&7&lIn momentul de fata ai %nrUcideriCurente ucideri din cele %nrUcideriCerute cerute!'
+    verificaRamasSpargeBlock: '&7&lIn momentul de fata ai %nrBlocuriCurente din cele %nrBlocuriCerute cerute!'
+    verificaRamasImperecheri: '&7&lIn momentul de fata ai %nrImperecheriCurente din cele %nrImperecheriCerute cerute!'
+    verificaRamasPesti: '&7&lIn momentul de fata ai %nrPestiCurent din cei %nrPestiCeruti ceruti!'
+    verificaRamasCraft: '&7&lIn momentul de fata ai %nrItemeCurent din cele %nrItemeCerute cerute!'
+    verificaRamasExplore: '&7&lIn momentul de fata trebuie sa mergi inca %nrBlocuriRamase blocuri!'
+QuestStats:
+    - '&7%numeJucator in momentul de fata ai urmatoarele statusuri!'
+    - '&7Questuri terminate: %nrQuesturi'
+Npc:
+    Nume: '&aAventurierul Joe'

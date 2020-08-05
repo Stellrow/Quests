@@ -1,0 +1,72 @@
+Questuri:
+  '0':
+    Tip: Ucidere
+    TipMonstru: GHAST
+    NrUcideri: 5
+    NivelRecompensa: Normal
+    Nume: '&cRazbunarea Ghastului'
+    Descriere:
+    - '&7Acum mult timp,am fost in nether sa minez niste quartz'
+    - '&7am facut portalul,am trecut prin el si cand am ajuns in nether'
+    - '&7un ghast a explodat portalul si am ramas abandonat in nether'
+    - '&7acum caut razbunare pe ei,sa le arat cine e seful netherului'
+    - ' '
+    - '&aVreau ca tu sa omori &c5 ghasturi &ain nether!'
+  '1':
+    Tip: SpargeBlock
+    TipBlock: STONE
+    NrBlocuri: 64
+    NivelRecompensa: Normal
+    Nume: '&cLipsa de piatra'
+    Descriere:
+    - '&7In ultima vreme raman constant fara piatra'
+    - '&7asa ca te voi pune pe tine sa faci rost de cateva bucati'
+    - ' '
+    - '&aVreau ca tu sa spargi &c64 blocuri de stone &a!'
+  '2':
+    Tip: Imperechere
+    TipMob: SHEEP
+    NrImperecheri: 6
+    NivelRecompensa: Normal
+    Nume: '&cFerma de oi'
+    Descriere:
+    - '&7Lana e foarte importanta in ultima vreme,atat de multe culori'
+    - '&7atat de multe chesti de construit'
+    - '&7Avem nevoie de cat mai multa lana!'
+    - ' '
+    - '&aVreau ca tu sa imperechezi &c6 oi &a!'
+  '3':
+    Tip: Pescuit
+    TipMob: COD
+    NrPesti: 5
+    NivelRecompensa: Normal
+    Nume: '&cPescuit de vara'
+    Descriere:
+    - '&7Ce zici nu iti place vremea de afara?'
+    - '&7Este cald si placut,perfect pentru pescuit'
+    - '&7Ce ai zice de niste peste prajit?'
+    - ' '
+    - '&aVreau ca tu sa pescuiesti &c5 cod &a!'
+  '4':
+    Tip: Explorare
+    Distanta: 400
+    NivelRecompensa: Normal
+    Nume: '&cO plimbare pe afara'
+    Descriere:
+    - '&7Ce zici nu iti place vremea de afara?'
+    - '&7Este cald si placut,perfect pentru o plimbare'
+    - '&7Vi si tu?'
+    - ' '
+    - '&aVreau ca tu sa mergi &c400 de blocuri &a!'
+  '5':
+    Tip: Craft
+    TipItem: CHEST
+    NrIteme: 5
+    NivelRecompensa: Normal
+    Nume: '&cLipsa de spatiu'
+    Descriere:
+    - '&7In ultima vreme am tot mai putin spatiu'
+    - '&7Simt ca nu sunt destule chesturi in zona'
+    - '&7Nu crezi si tu?'
+    - ' '
+    - '&aVreau ca tu sa craftezi &c5 chesturi &a!'
